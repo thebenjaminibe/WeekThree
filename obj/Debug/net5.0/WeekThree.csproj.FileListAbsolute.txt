@@ -1,0 +1,16 @@
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\WeekThree.exe
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\WeekThree.deps.json
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\WeekThree.runtimeconfig.json
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\WeekThree.runtimeconfig.dev.json
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\WeekThree.dll
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\ref\WeekThree.dll
+C:\Users\USER7\Desktop\Wella health school\WeekThree\bin\Debug\net5.0\WeekThree.pdb
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.csproj.AssemblyReference.cache
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.AssemblyInfoInputs.cache
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.AssemblyInfo.cs
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.csproj.CoreCompileInputs.cache
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.dll
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\ref\WeekThree.dll
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.pdb
+C:\Users\USER7\Desktop\Wella health school\WeekThree\obj\Debug\net5.0\WeekThree.genruntimeconfig.cache
