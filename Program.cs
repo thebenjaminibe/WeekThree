@@ -33,14 +33,33 @@ namespace WeekThree
 
 
             //<<<<<<<<<<<simple Calculator App>>>>>>>>>>>>
-            Console.WriteLine("This is a calculator app");
-            Console.Write("Type in your first number: ");
+            //Console.WriteLine("This is a calculator app");
+            //Console.Write("Type in your first number: ");
             int firstNumber = int.Parse(Console.ReadLine());
-            Console.Write("Type in your second number: ");
+            //Console.Write("Type in your second number: ");
             int secondNumber = int.Parse(Console.ReadLine());
             int result = firstNumber + secondNumber;
             //Concatenation
-            Console.WriteLine("The addition of " + firstNumber + "and" + secondNumber +"is" + result);
+            //Console.WriteLine("The addition of " + firstNumber + "and" + secondNumber +"is" + result);
+
+            //Else If
+            //if (false)
+            //{
+               // Console.WriteLine("The statement is true");
+            //}
+
+            //NOT EQUALS
+
+
+            if (2 == 2)
+            {
+                Console.WriteLine("They are equal");
+            }
+            else
+            {
+                Console.WriteLine("They are not equal");
+            }
+
         }
     }
 }
